@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WarehouseApp</string>
+    <string name="bought">Available</string>
+
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="already_purchased">Out of stock</string>
+    <string name="new_store_item">New Store Item</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string-array name="category_items">
+        <item>Furniture</item>
+        <item>Electronic</item>
+        <item>Construction item</item>
+        <item>Other</item>
+    </string-array>
+    
+    <string name="action_delete_all">Delete all items</string>
+    <string name="action_sort_category">Sort by category</string>
+    <string name="action_sort_availability">Sort by availability</string>
+</resources>
